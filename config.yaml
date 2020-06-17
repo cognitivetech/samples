@@ -1,0 +1,45 @@
+title: Curriculum Configuration
+curator: Sunny Aggarwal
+source: https://www.example.com
+
+description: >
+    You got all the space
+
+    and as many lines as you need for description.
+
+items:
+  - paper:
+      title:          # of resource whether it's 'paper' 'book', etc.
+      link:           # basically every item has a link
+      description:    # Required (unless maybe you use isbn or have a series of items that contain all your metadata)
+  - section:          # Of curriculum
+      title:          # of section
+      items:          # within section
+        - article:
+            title:
+            link:
+        - book:
+            title:
+            isbn:
+            link: 
+  - article:
+      title: 
+      link:
+      description:
+      items:
+          - video:
+              title: Video belonging to the article or contrawise
+              link: 
+              description:
+              optional: true 
+  - website:
+      title: 
+      link:
+  - text:
+      description: 
+  - book:
+      title: 
+      author:
+      link: 
+      description: >
+          indented to r

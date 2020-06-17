@@ -1,4 +1,4 @@
-title: Africana Philosophy - HoP
+title: "Africana Philosophy - HoP"
 authors: Peter Adamson and Chike Jeffers
 source: https://historyofphilosophy.net/africana-philosophy
 description: This series of episodes, co-written by Chike Jeffers of Dalhousie University, examines philosophy originating from Africa and the African diaspora. Beginning with the origins of humanity in Africa and philosophical literature in ancient Egypt, the story will go up to the twentieth century and beyond. Major themes include African oral traditions, reactions to the depredations of colonialism and enslavement, political philosophy and philosophy of race developed in the twentieth century, and the emergence of Africana thought within academia.
@@ -6,361 +6,326 @@ type: podcast
 
 items: 
   - episode:       
-      title: HAP 01 - Something Old, Something New - Introducing Africana Philosophy
+      title: "HAP 01 - Something Old, Something New - Introducing Africana Philosophy"
       link: https://hopwag2.podbean.com/e/hap-01-something-old-something-new-introducing-africana-philosophy/
       description: Chike Jeffers and Peter Adamson kick off the new series by explaining the scope and meaning of "Africana philosophy".
   - episode:       
-      title: HAP 02 - It’s Only Human - Philosophy in Prehistoric Africa
+      title: "HAP 02 - It’s Only Human - Philosophy in Prehistoric Africa"
       link: https://hopwag2.podbean.com/e/hap-02-it%e2%80%99s-only-human-philosophy-in-prehistoric-africa/
       description: Might philosophy be as old as humankind as we know it? We investigate the implications of findings concerning the origins of humankind in Africa.
   - episode:       
-      title: HAP 03 - Fertile Ground - Philosophy in Ancient Mesopotamia
+      title: "HAP 03 - Fertile Ground - Philosophy in Ancient Mesopotamia"
       link: https://hopwag2.podbean.com/e/hap-03-fertile-ground-philosophy-in-ancient-mesopotamia/
       description: Do the cuneiform writings of Babylonian culture show that it had its own philosophy?
   - episode:       
-      title: HAP 04 - Pyramid Schemes - Philosophy in Ancient Egypt
+      title: "HAP 04 - Pyramid Schemes - Philosophy in Ancient Egypt"
       link: https://hopwag2.podbean.com/e/hap-04-pyramid-schemes-philosophy-in-ancient-egypt/
-      description: Ancient Egyptian figures and writings including the Pyramid Texts, Imhotep, and the "first monotheist" Akhenaten reflect on the nature of things and questions of morality.
+      description: Ancient Egyptian figures and writings including the Pyramid Texts, Imhotep, and the "first monotheist"Akhenaten reflect on the nature of things and questions of morality.
   - episode:       
-      title: HAP 05 - Father Knows Best - Moral and Political Philosophy in the Instructions
+      title: "HAP 05 - Father Knows Best - Moral and Political Philosophy in the Instructions"
       link: https://hopwag2.podbean.com/e/hap-05-father-knows-best-moral-and-political-philosophy-in-the-instructions/
       description: Ethical reflection in ancient Egyptian grave inscriptions and in works of instruction, such as the Maxims of Ptahhotep and the Instructions named for Amenemope, Ani, and Merikare.
   - episode:       
-      title: HAP 06 - Heated Exchanges - Philosophy in Egyptian Narratives and Dialogues
+      title: "HAP 06 - Heated Exchanges - Philosophy in Egyptian Narratives and Dialogues"
       link: https://hopwag2.podbean.com/e/hap-06-heated-exchanges-philosophy-in-egyptian-narratives-and-dialogues/
       description: Demands for ma’at (justice or truth) and a confrontation with the soul, in the Tale of the Eloquent Peasant and Dispute Between a Man and his Ba.
   - episode:       
-      title: HAP 07 - Richard Parkinson on Egyptian Poetry
+      title: "HAP 07 - Richard Parkinson on Egyptian Poetry"
       link: https://hopwag2.podbean.com/e/hap-07-richard-parkinson-on-egyptian-poetry/
       description: Egyptioogist Richard Parkinson joins us to talk about the context and meaning of the Eloquent Peasant and other literary works of ancient Egypt.
   - episode:       
-      title: HAP 08 - Solomon, Socrates, and Other Sages - Early Ethiopian Philosophy
+      title: "HAP 08 - Solomon, Socrates, and Other Sages - Early Ethiopian Philosophy"
       link: https://hopwag2.podbean.com/e/hap-08-solomon-socrates-and-other-sages-early-ethiopian-philosophy/
       description: Philosophy in Ethiopia, with translations of religious and philosophical texts into Ge’ez and a national epic called the Kebra Nagast.
   - episode:       
-      title: HAP 09 - In You I Take Shelter - Zera Yacob
+      title: "HAP 09 - In You I Take Shelter - Zera Yacob"
       link: https://hopwag2.podbean.com/e/hap-09-in-you-i-take-shelter-zera-yacob/
       description: The 17th century Ethiopian rationalist Zera Yacob, hailed as the first modern Africana philosopher.
   - episode:       
-      title: HAP 10 - Think for Yourself - Walda Heywat
+      title: "HAP 10 - Think for Yourself - Walda Heywat"
       link: https://hopwag2.podbean.com/e/hap-10-think-for-yourself-walda-heywat/
       description: Walda Heywat’s reaction to the thought of his teacher Zera Yacob, and the dispute over the authenticity of these two Ethiopian philosophers.
   - episode:       
-      title: HAP 11 - Teodros Kiros on Ethiopian Philosophy
+      title: "HAP 11 - Teodros Kiros on Ethiopian Philosophy"
       link: https://hopwag2.podbean.com/e/hap-11-teodros-kiros-on-ethiopian-philosophy/
       description: Teodros Kiros discusses the history of Ethiopian thought and how it has influenced his own work in political philosophy.
   - episode:       
-      title: HAP 12 - From Here to Timbuktu - Subsaharan Islamic Philosophy
+      title: "HAP 12 - From Here to Timbuktu - Subsaharan Islamic Philosophy"
       link: https://hopwag2.podbean.com/e/hap-12-from-here-to-timbuktu-subsaharan-islamic-philosophy/
       description: The spread of Islamic scholarship in subsaharan Africa, focusing on intellectuals of the Songhay empire around the Niger River in the 15th-17th centuries.
   - episode:       
-      title: HAP 13 - Renewing the Faith - the Sokoto Caliphate
+      title: "HAP 13 - Renewing the Faith - the Sokoto Caliphate"
       link: https://hopwag2.podbean.com/e/hap-13-renewing-the-faith-the-sokoto-caliphate/
       description: Uthman Dan Fodio and his family were scholars, poets, and warriors whose jihad in 19th century Nigeria created the Sokoto Caliphate.
   - episode:       
-      title: HAP 14 - Souleymane Bachir Diagne on Islam in Africa
+      title: "HAP 14 - Souleymane Bachir Diagne on Islam in Africa"
       link: https://hopwag2.podbean.com/e/hap-14-souleymane-bachir-diagne-on-islam-in-africa/
       description: Peter speaks to Souleymane Bachir Diagne about Islamic scholars in West Africa.
   - episode:       
-      title: HAP 15 - Heard it Through the Grapevine - Oral Philosophy in Africa
+      title: "HAP 15 - Heard it Through the Grapevine - Oral Philosophy in Africa"
       link: https://hopwag2.podbean.com/e/hap-15-heard-it-through-the-grapevine-oral-philosophy-in-africa/
       description: An introduction to the “ethnophilosophy” approach inaugurated by Placide Tempels, its promises and potential pitfalls.
   - episode:       
-      title: HAP 16 - Samuel Imbo on Okot p'Bitek and Oral Traditions
+      title: "HAP 16 - Samuel Imbo on Okot p'Bitek and Oral Traditions"
       link: https://hopwag2.podbean.com/e/hap-16-samuel-imbo-on-okot-pbitek-and-oral-traditions/
       description: A conversation with Sam Imbo on approaching oral traditions as philosophy and the Ugandan thinker and poet Okot p'Bitek.
   - episode:       
-      title: HAP 17 - Event Horizon - African Philosophy of Time
+      title: "HAP 17 - Event Horizon - African Philosophy of Time"
       link: https://hopwag2.podbean.com/e/hap-17-event-horizon-african-philosophy-of-time/
       description: John Mbiti’s influential and controversial claim that traditional Africans experience time as having “a long past, a present, and virtually no future.”
   - episode:       
-      title: HAP 18 - One to Rule Them All - God in African Philosophy
+      title: "HAP 18 - One to Rule Them All - God in African Philosophy"
       link: https://hopwag2.podbean.com/e/hap-18-one-to-rule-them-all-god-in-african-philosophy/
       description: Is traditional African religion in some sense monotheist, despite the worship of many divinities?
   - episode:       
-      title: HAP 19 - Behind the Mask - African Philosophy of the Person
+      title: "HAP 19 - Behind the Mask - African Philosophy of the Person"
       link: https://hopwag2.podbean.com/e/hap-19-behind-the-mask-african-philosophy-of-the-person/
       description: Traditional African ideas about personhood, which challenge assumptions about the relation between mind and body, self and other.
   - episode:       
-      title: HAP 20 - I Am Because We Are - Communalism in African Ethics and Politics
+      title: "HAP 20 - I Am Because We Are - Communalism in African Ethics and Politics"
       link: https://hopwag2.podbean.com/e/hap-20-i-am-because-we-are-communalism-in-african-ethics-and-politics/
       description: Emphasis on the value of community as a major theme in African philosophy.
   - episode:       
-      title: HAP 21 - The Doctor Will See You Now - Divination, Witchcraft, and Knowledge
+      title: "HAP 21 - The Doctor Will See You Now - Divination, Witchcraft, and Knowledge"
       link: https://hopwag2.podbean.com/e/hap-21-the-doctor-will-see-you-now-divination-witchcraft-and-knowledge/
       description: Special forms of knowledge and the explanation of misfortunes in African tradition.
   - episode:       
-      title: HAP 22 - Women Have no Tribe - Gender in African Tradition
+      title: "HAP 22 - Women Have no Tribe - Gender in African Tradition"
       link: https://hopwag2.podbean.com/e/hap-22-women-have-no-tribe-gender-in-african-tradition/
       description: What archeology and ethnography tell us about the diverse and often ambiguous roles of men and women in traditional African societies.
   - episode:       
-      title: HAP 23 - Nkiru Nzegwu on Gender in African Tradition
+      title: "HAP 23 - Nkiru Nzegwu on Gender in African Tradition"
       link: https://hopwag2.podbean.com/e/hap-23-nkiru-nzegwu-on-gender-in-african-tradition/
       description: An interview with Nkiru Nzegwu on matriarchy and gender fluidity in Africa.
   - episode:       
-      title: HAP 24 - Professionally Speaking - The Reaction Against Ethnophilosophy
+      title: "HAP 24 - Professionally Speaking - The Reaction Against Ethnophilosophy"
       link: https://hopwag2.podbean.com/e/hap-24-professionally-speaking-the-reaction-against-ethnophilosophy/
       description: Paulin Hountondji and other African philosophers criticize ethnophilosophy and advocate a universalist approach.
   - episode:       
-      title: HAP 25 - Wise Guys - Sage Philosophy
+      title: "HAP 25 - Wise Guys - Sage Philosophy"
       link: https://hopwag2.podbean.com/e/hap-25-wise-guys-sage-philosophy/
       description: Henry Odera Oruka’s new method for exploring philosophy in Africa, based on interviews with wise individuals.
   - episode:       
-      title: HAP 26 - Kai Kresse on the Anthropology of Philosophy
+      title: "HAP 26 - Kai Kresse on the Anthropology of Philosophy"
       link: https://hopwag2.podbean.com/e/hap-26-kai-kresse-on-the-anthropology-of-philosophy/
-      description: An interview with Kai Kresse who discusses his efforts to do "anthropology of philosophy" on the Swahili Coast.
+      description: An interview with Kai Kresse who discusses his efforts to do "anthropology of philosophy"on the Swahili Coast.
   - episode:       
-      title: HAP 27 - Beyond the Reaction - The Continuing Relevance of Precolonial Traditions
+      title: "HAP 27 - Beyond the Reaction - The Continuing Relevance of Precolonial Traditions"
       link: https://hopwag2.podbean.com/e/hap-27-beyond-the-reaction-the-continuing-relevance-of-precolonial-traditions/
       description: As the twentieth century draws to a close, the critique of ethnophilosophy gives way to approaches that continue to privilege the study of precolonial traditions.
   - episode:       
-      title: HAP 28 - Chike Jeffers on Precolonial African Philosophy
+      title: "HAP 28 - Chike Jeffers on Precolonial African Philosophy"
       link: https://hopwag2.podbean.com/e/hap-28-chike-jeffers-on-precolonial-african-philosophy/
       description: Co-host Chike Jeffers and Peter chat about the themes and questions raised by the podcast so far.
   - episode:       
-      title: HAP 29 - Out of Africa - Slavery and the Diaspora
+      title: "HAP 29 - Out of Africa - Slavery and the Diaspora"
       link: https://hopwag2.podbean.com/e/hap-29-out-of-africa-slavery-and-the-diaspora/
       description: An introduction to Africana philosophical thought as it emerged from the modern experience of slavery and colonization by Europeans.
   - episode:       
-      title: HAP 30 - Dualist Personality - Anton Wilhelm Amo
+      title: "HAP 30 - Dualist Personality - Anton Wilhelm Amo"
       link: https://hopwag2.podbean.com/e/hap-30-dualist-personality-anton-wilhelm-amo/
       description: Anton Wilhelm Amo, brought to Germany from his native Ghana, defends a rigorous dualism of mind and body. Was this philosophy connected to his African origins?
   - episode:       
-      title: HAP 31 - Justin Smith on Amo and Race in Early Modern Philosophy
+      title: "HAP 31 - Justin Smith on Amo and Race in Early Modern Philosophy"
       link: https://hopwag2.podbean.com/e/hap-31-justin-smith-on-amo-and-race-in-early-modern-philosophy/
       description: Justin E.H. Smith joins us to discuss Anton Wilhelm Amo against the background of ideas about race in early modern philosophy, including Leibniz.
   - episode:       
-      title: HAP 32 - Talking Book - Early Africana Writing in English 
+      title: "HAP 32 - Talking Book - Early Africana Writing in English "
       link: https://hopwag2.podbean.com/e/hap-32-talking-book-early-africana-writing-in-english/
       description: 18th century black authors touch on philosophical themes in autobiographical narratives, poetry, and other literary genres.
   - episode:       
-      title: HAP 33 - Young, Gifted, and Black - Phillis Wheatley
+      title: "HAP 33 - Young, Gifted, and Black - Phillis Wheatley"
       link: https://hopwag2.podbean.com/e/hap-33-young-gifted-and-black-phillis-wheatley/
       description: Phillis Wheatley astonishes colonial Americans with her exquisite and precocious poetry and reflects on the liberating power of the imagination.
   - episode:       
-      title: HAP 34 - New England Patriot - Lemuel Haynes
+      title: "HAP 34 - New England Patriot - Lemuel Haynes"
       link: https://hopwag2.podbean.com/e/hap-34-new-england-patriot-lemuel-haynes/
       description: Preacher and Revolutionary War soldier Lemuel Haynes argues that the principles of the American Revolution demand the abolition of slavery.
   - episode:       
-      title: HAP 35 - Letters from the Heart - Ignatius Sancho and Benjamin Banneker
+      title: "HAP 35 - Letters from the Heart - Ignatius Sancho and Benjamin Banneker"
       link: https://hopwag2.podbean.com/e/hap-35-letters-from-the-heart-ignatius-sancho-and-benjamin-banneker/
       description: Ignatius Sancho and Benjamin Banneker make their mark on the history of Africana thought through letters that reflect on the power of sentiment.
   - episode:       
-      title: HAP 36 - Sons of Africa - Quobna Ottobah Cugoano and Olaudah Equiano
+      title: "HAP 36 - Sons of Africa - Quobna Ottobah Cugoano and Olaudah Equiano"
       link: https://hopwag2.podbean.com/e/hap-36-sons-of-africa-quobna-ottobah-cugoano-and-olaudah-equiano/
       description: Quobna Ottobah Cugoano and Olaudah Equiano advance the goals of the abolitionist movement through a groundbreaking political treatise and an influential autobiography.
   - episode:       
-      title: HAP 37 - Liberty, Equality, Humanity - The Haitian Revolution
+      title: "HAP 37 - Liberty, Equality, Humanity - The Haitian Revolution"
       link: https://hopwag2.podbean.com/e/hap-37-liberty-equality-humanity-the-haitian-revolution/
       description: In an age of revolutions and revolutionary ideas, the Haitian Revolution of 1791-1804 stands out as the most radical of them all.
   - episode:       
-      title: HAP 38 - My Haitian Pen - Baron de Vastey
+      title: "HAP 38 - My Haitian Pen - Baron de Vastey"
       link: https://hopwag2.podbean.com/e/hap-38-my-haitian-pen-baron-de-vastey/
       description: The Baron de Vastey unveils the horror of colonialism as a system and defends the monarchy of King Christophe in the tense early years of Haiti’s independence.
   - episode:       
-      title: HAP 39 - Doris Garraway on the Haitian Revolution
+      title: "HAP 39 - Doris Garraway on the Haitian Revolution"
       link: https://hopwag2.podbean.com/e/hap-39-doris-garraway-on-the-haitian-revolution/
       description: An interview with Doris Garraway on the background, intellectual basis, and legacy of the Haitian Revolution.
   - episode:       
-      title: HAP 40 - American Africans - Early Black Institutions in the US
+      title: "HAP 40 - American Africans - Early Black Institutions in the US"
       link: https://hopwag2.podbean.com/e/hap-40-american-africans-early-black-institutions-in-the-us/
       description: Building black institutions in early American history, with Prince Hall and the Masons in Boston, and Richard Allen and the Methodists in Philadelphia.
   - episode:       
-      title: HAP 41 - Should I Stay or Should I Go? - The Colonization Controversy
+      title: "HAP 41 - Should I Stay or Should I Go? - The Colonization Controversy"
       link: https://hopwag2.podbean.com/e/hap-41-should-i-stay-or-should-i-go-the-colonization-controversy/
       description: Questions of political autonomy and group identity in the emigration movement led by Paul Cuffe, Daniel Coker, John Russwurm and others.
   - episode:       
-      title: HAP 42 - James Sidbury on African Identity
+      title: "HAP 42 - James Sidbury on African Identity"
       link: https://hopwag2.podbean.com/e/hap-42-james-sidbury-on-african-identity/
       description: An interview with James Sidbury about the emergence of a self-conscious African identity in the diaspora.
   - episode:       
-      title: HAP 43 - Kill or Be Killed - David Walker’s Appeal
+      title: "HAP 43 - Kill or Be Killed - David Walker’s Appeal"
       link: https://hopwag2.podbean.com/e/hap-43-kill-or-be-killed-david-walker-s-appeal/
       description: David Walker defends violent resistance and encourages self-improvement in his incendiary and influential Appeal.
   - episode:       
-      title: HAP 44 - Religion and Pure Principles - Maria W. Stewart
+      title: "HAP 44 - Religion and Pure Principles - Maria W. Stewart"
       link: https://hopwag2.podbean.com/e/hap-44-religion-and-pure-principles-maria-w-stewart/
       description: Maria W. Stewart’s public addresses bring the concerns of African American women into the struggle against racial prejudice.
   - episode:       
-      title: HAP 45 - Unnatural Causes - Hosea Easton’s Treatise
+      title: "HAP 45 - Unnatural Causes - Hosea Easton’s Treatise"
       link: https://hopwag2.podbean.com/e/hap-45-unnatural-causes-hosea-easton-s-treatise/
       description: Hosea Easton’s Treatise provides an overlooked but fascinating theory of race and racism.
   - episode:       
-      title: HAP 46 - Melvin Rogers on 19th Century Political Thought
+      title: "HAP 46 - Melvin Rogers on 19th Century Political Thought"
       link: https://hopwag2.podbean.com/e/hap-46-melvin-rogers-on-19th-century-political-thought/
       description: Melvin Rogers joins us to discuss Hosea Walker, Maria Stewart, and Hosea Easton.
   - episode:       
-      title: HAP 47 - Written by Himself - the Life of Frederick Douglass
+      title: "HAP 47 - Written by Himself - the Life of Frederick Douglass"
       link: https://hopwag2.podbean.com/e/hap-47-written-by-himself-the-life-of-frederick-douglass/
       description: Frederick Douglass' journey from slave to leading figure of 19th century American thought.
   - episode:       
-      title: HAP 48 - Happy Holidays - Two Speeches by Frederick Douglass
+      title: "HAP 48 - Happy Holidays - Two Speeches by Frederick Douglass"
       link: https://hopwag2.podbean.com/e/hap-48-happy-holidays-two-speeches-by-frederick-douglass/
       description: In two speeches marking holidays, Frederick Douglass champions the idea of world citizenship, the power of appeals to conscience to bring change, and the role of violence.
   - episode:       
-      title: HAP 49 - Let Your Motto Be Resistance - Henry Highland Garnet
+      title: "HAP 49 - Let Your Motto Be Resistance - Henry Highland Garnet"
       link: https://hopwag2.podbean.com/e/hap-49-let-your-motto-be-resistance-henry-highland-garnet/
       description: Henry Highland Garnet encourages, or actually demands, that enslaved Americans throw off their chains and debates Douglass over how best to resist slavery.
   - episode:       
-      title: HAP 50 - Nation Within a Nation - Martin Delany
+      title: "HAP 50 - Nation Within a Nation - Martin Delany"
       link: https://hopwag2.podbean.com/e/hap-50-nation-within-a-nation-martin-delany/
       description: He is called a “father of black nationalism,” but Martin Delany also promoted integration in American society. Can the apparent tension be resolved?
   - episode:       
-      title: HAP 51 - I Read Men and Nations - Sojourner Truth and Frances Harper
+      title: "HAP 51 - I Read Men and Nations - Sojourner Truth and Frances Harper"
       link: https://hopwag2.podbean.com/e/hap-51-i-read-men-and-nations-sojourner-truth-and-frances-harper/
       description: The moral crusades of Sojourner Truth and Frances Harper, activists against racial and gender oppression.
   - episode:       
-      title: HAP 52 - Great White North - Emigration to Canada
+      title: "HAP 52 - Great White North - Emigration to Canada"
       link: https://hopwag2.podbean.com/e/hap-52-great-white-north-emigration-to-canada/
       description: Mary Ann Shadd and Samuel Ringgold Ward reflect on what Canada can offer African Americans, differing on the problem of racism.
   - episode:       
-      title: HAP 53 - Pilgrim’s Progress - Alexander Crummell
+      title: "HAP 53 - Pilgrim’s Progress - Alexander Crummell"
       link: https://hopwag2.podbean.com/e/hap-53-pilgrim-s-progress-alexander-crummell/
       description: Alexander Crummell moves from pan-Africanism to reform of African American culture, identifying progressive “civilization” as a means of liberation.
   - episode:       
-      title: HAP 54 - Wilson Moses on the Roots of Black Nationalism
+      title: "HAP 54 - Wilson Moses on the Roots of Black Nationalism"
       link: https://hopwag2.podbean.com/e/hap-54-wilson-moses-on-the-roots-of-black-nationalism/
       description: Wilson Moses speaks to us about his research into early black notionalism, as represented by Crummell, Douglass, and others.
   - section:
-      title: Further Reading
+      title: "Further Reading"
         - items:
             book:
-              authors: [A. Afolayan, T. Falola]
-              title: The Palgrave Handbook of African Philosophy
-              meta: (New York: 2017)
+              authors: ["A. Afolayan","T. Falola"]
+              title: "The Palgrave Handbook of African Philosophy (New York: 2017)"
             book:
-              authors: K.A. Appiah
-              title: In My Father's House: Africa in the Philosophy of Culture
-              meta:  (New York: 1992)
+              authors: ["K.A. Appiah"]
+              title: "In My Father's House: Africa in the Philosophy of Culture (New York: 1992)"
             book:
-              authors: [M.K. Asante, A.S. Abarry]
-              title: African Intellectual Heritage: A Book of Sources
-              meta:  (Philadelphia: 1996)
+              authors: ["M.K. Asante","A.S. Abarry"]
+              title: "African Intellectual Heritage: A Book of Sources (Philadelphia: 1996)"
             book:
-              authors: [R.H. Bell]
-              title: Understanding African Philosophy. A Cross-Cultural Approach to Classical and Contemporary Issues in Africa
-              meta:  (New York: 2002)
+              authors: ["R.H. Bell"]
+              title: "Understanding African Philosophy. A Cross-Cultural Approach to Classical and Contemporary Issues in Africa (New York: 2002)"
             book:
-              authors: [A.B. Bogues]
-              title: Black Heretics, Black Prophets: Radical Political Intellectuals
-              meta:  (New York: 2003)
+              authors: ["A.B. Bogues"]
+              title: "Black Heretics","Black Prophets: Radical Political Intellectuals (New York: 2003)"
             book:
-              authors: H. Brotz
-              title: African-American Social and Political Thought 1850–1920
-              meta:  (New Brunswick: 1992)
+              authors: ["H. Brotz"]
+              title: "African-American Social and Political Thought 1850–1920 (New Brunswick: 1992)"
             book:
-              authors: [P.H. Coetzee, A.P.J. Roux]
-              title: The African Philosophy Reader. A Text with Readings
-              meta:  (New York: 1998)
+              authors: ["P.H. Coetzee","A.P.J. Roux"]
+              title: "The African Philosophy Reader. A Text with Readings (New York: 1998)"
             book:
-              authors: [E. Etieyibo]
-              title:  Method, Substance and the Future of African Philosophy
-              meta:  (Cham: 2018)
+              authors: ["E. Etieyibo"]
+              title: "Method","Substance and the Future of African Philosophy (Cham: 2018)"
             book:
-              authors: [E.C. Eze]
-              title: Postcolonial African Philosophy: A Critical Reader
-              meta:  (Cambridge: 1997)
+              authors: ["E.C. Eze"]
+              title: "Postcolonial African Philosophy: A Critical Reader (Cambridge: 1997)"
             book:
-              authors: [E.C. Eze]
-              title: African Philosophy. An Anthology
-              meta:  (Oxford: 1998)
+              authors: ["E.C. Eze"]
+              title: "African Philosophy. An Anthology (Oxford: 1998)"
             book:
-              authors: [J.L. Garfield, W. Edelglass]
-              title:  The Oxford Handbook of World Philosophy part VI
-              meta:  (New York: 2011)
+              authors: ["J.L. Garfield","W. Edelglass"]
+              title: "The Oxford Handbook of World Philosophy part VI (New York: 2011)"
             book:
-              authors: [L.R. Gordon]
-              title: Existence in Black: An Anthology of Black Existential Philosophy
-              meta:  (New York: 1997)
+              authors: ["L.R. Gordon"]
+              title: "Existence in Black: An Anthology of Black Existential Philosophy (New York: 1997)"
             book:
-              authors: [L.R. Gordon]
-              title: An Introduction to Africana Philosophy
-              meta:  (New York: 2008)
+              authors: ["L.R. Gordon"]
+              title: "An Introduction to Africana Philosophy (New York: 2008)"
             book:
-              authors: [B. Guy-Sheftall]
-              title: Words of Fire: An Anthology of African-American Feminist Thought
-              meta:  (New York: 1995)
+              authors: ["B. Guy-Sheftall"]
+              title: "Words of Fire: An Anthology of African-American Feminist Thought (New York: 1995)"
             book:
-              authors: [B. Hallen]
-              title: A Short History of African Philosophy
-              meta:  (Bloomington: 2002)
+              authors: ["B. Hallen"]
+              title: "A Short History of African Philosophy (Bloomington: 2002)"
             book:
-              authors: [L. Harris]
-              title: Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917
-              meta:  (Dubuque: 1983)
+              authors: ["L. Harris"]
+              title: "Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917 (Dubuque: 1983)"
             book:
-              authors: [P. Henry]
-              title: Caliban's Reason: Introducing Afro-Caribbean Philosophy
-              meta:  (New York: 2000)
+              authors: ["P. Henry"]
+              title: "Caliban's Reason: Introducing Afro-Caribbean Philosophy (New York: 2000)"
             book:
-              authors: [F.L. Hord (Mzee Lasana Okpara), J.S. Lee]
-              title:  I Am Because We Are: Readings in Africana Philosophy
-              meta:  (Amherst: 2016)
+              authors: ["F.L. Hord (Mzee Lasana Okpara)","J.S. Lee"]
+              title: "I Am Because We Are: Readings in Africana Philosophy (Amherst: 2016)"
             book:
-              authors: [S.O. Imbo]
-              title: An Introduction to African Philosophy
-              meta:  (Lanham: 1998)
+              authors: ["S.O. Imbo"]
+              title: "An Introduction to African Philosophy (Lanham: 1998)"
             book:
-              authors: [B.B. Janz]
-              title: Philosophy in an African Place
-              meta:  (Lanham: 2009)
+              authors: ["B.B. Janz"]
+              title: "Philosophy in an African Place (Lanham: 2009)"
             book:
-              authors: [C. Jeffers]
-              title: Listening to Ourselves: A Multilingual Anthology of African Philosophy
-              meta:  (Albany: 2013)
+              authors: ["C. Jeffers"]
+              title: "Listening to Ourselves: A Multilingual Anthology of African Philosophy (Albany: 2013)"
             book:
-              authors: [T.L. Lott]
-              title: African-American Philosophy: Selected Readings
-              meta:  (Upper Saddle River: 2002)
+              authors: ["T.L. Lott"]
+              title: "African-American Philosophy: Selected Readings (Upper Saddle River: 2002)"
             book:
-              authors: [T.L. Lott, J.P. Pittman]
-              title: A Companion to African-American Philosophy
-              meta:  (Malden: 2003)
+              authors: ["T.L. Lott","J.P. Pittman"]
+              title: "A Companion to African-American Philosophy (Malden: 2003)"
             book:
-              authors: [D.A. Masolo]
-              title: African Philosophy in Search of Identity
-              meta:  (Bloomington: 1994)
+              authors: ["D.A. Masolo"]
+              title: "African Philosophy in Search of Identity (Bloomington: 1994)"
             book:
-              authors: [J. McDade]
-              title: The Philosophical Forum: Special Issue: Philosophy and Black Experience 9
-              meta:  (Winter-Spring 1977-1978)
+              authors: ["J. McDade"]
+              title: "The Philosophical Forum: Special Issue: Philosophy and Black Experience 9 (Winter-Spring 1977-1978)"
             book:
-              authors: [C.W. Mills]
-              title: Blackness Visible: Essays on Philosophy and Race
-              meta:  (Ithaca: 1998)
+              authors: ["C.W. Mills"]
+              title: "Blackness Visible: Essays on Philosophy and Race (Ithaca: 1998)"
             book:
-              authors: [J.A. Montmarquet, W.H. Hardy]
-              title: Reflections: An Anthology of African American Philosophy
-              meta:  (Belmont: 2000)
+              authors: ["J.A. Montmarquet","W.H. Hardy"]
+              title: "Reflections: An Anthology of African American Philosophy (Belmont: 2000)"
             book:
-              authors: [A. Mosley]
-              title: African Philosophy: Selected Readings
-              meta:  (Englewood Cliffs: 1995)
+              authors: ["A. Mosley"]
+              title: "African Philosophy: Selected Readings (Englewood Cliffs: 1995)"
             book:
-              authors: [L.T. Outlaw Jr.]
-              title: On Race and Philosophy
-              meta:  (New York: 1996)
+              authors: ["L.T. Outlaw Jr."]
+              title: "On Race and Philosophy (New York: 1996)"
             book:
-              authors: [J.P. Pittman]
-              title: African-American Perspectives and Philosophical Traditions
-              meta:  (New York: 1996)
+              authors: ["J.P. Pittman"]
+              title: "African-American Perspectives and Philosophical Traditions (New York: 1996)"
             book:
-              authors: [T. Serequeberhan]
-              title: African Philosophy: The Essential Readings
-              meta:  (New York: 1991)
+              authors: ["T. Serequeberhan"]
+              title: "African Philosophy: The Essential Readings (New York: 1991)"
             book:
-              authors: [T. Serequeberhan]
-              title: Our Heritage: The Past in the Present of African-American and African Existence
-              meta:  (Lanham: 2000)
+              authors: ["T. Serequeberhan"]
+              title: "Our Heritage: The Past in the Present of African-American and African Existence (Lanham: 2000)"
             book:
-              authors: [I.E. Ukpokolo, Themes]
-              title: Issues and Problems in African Philosophy
-              meta:  (Cham: 2017)
+              authors: ["I.E. Ukpokolo","Themes"]
+              title: "Issues and Problems in African Philosophy (Cham: 2017)"
             book:
-              authors: [K. Wiredu] 
-              title: A Companion to African Philosophy
-              meta: (Malden: 2004)
+              authors: ["K. Wiredu"] 
+              title: "A Companion to African Philosophy(Malden: 2004)"
             book:
-              authors: G. Yancy
-              title: African-American Philosophers: 17 Conversations
-              meta:  (New York: 1998)
+              authors: ["G. Yancy"]
+              title: "African-American Philosophers: 17 Conversations (New York: 1998)"

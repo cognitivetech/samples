@@ -1,7 +1,9 @@
 title: Curriculum Configuration
 curator: Sunny Aggarwal
+authors: # author vs authors distinction??? string vs array? two different things necessarily? or can adding an s make it necessarily a parent of individual components? I think ruby kinda works like that.
 source: https://www.example.com
-type: # item type (like paper, section, podcast, etc.) 
+type: # item type (like paper, section, podcast, etc.) (probably use quantity neutral terminology like podcast, film.. or maybe its better to have a distinguished variable for multiple of film == films)
+      # the reason I like type is its like `type: paper` is the same as `- paper:`.. i'm imagining each of these files I create as potentially modules.
 
 description: >
     You got all the space

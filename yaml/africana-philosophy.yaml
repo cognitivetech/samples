@@ -221,4 +221,146 @@ items:
       title: HAP 54 - Wilson Moses on the Roots of Black Nationalism
       link: https://hopwag2.podbean.com/e/hap-54-wilson-moses-on-the-roots-of-black-nationalism/
       description: Wilson Moses speaks to us about his research into early black notionalism, as represented by Crummell, Douglass, and others.
-
+  - section:
+      title: Further Reading
+        - items:
+            book:
+              authors: [A. Afolayan, T. Falola]
+              title: The Palgrave Handbook of African Philosophy
+              meta: (New York: 2017)
+            book:
+              authors: K.A. Appiah
+              title: In My Father's House: Africa in the Philosophy of Culture
+              meta:  (New York: 1992)
+            book:
+              authors: [M.K. Asante, A.S. Abarry]
+              title: African Intellectual Heritage: A Book of Sources
+              meta:  (Philadelphia: 1996)
+            book:
+              authors: [R.H. Bell]
+              title: Understanding African Philosophy. A Cross-Cultural Approach to Classical and Contemporary Issues in Africa
+              meta:  (New York: 2002)
+            book:
+              authors: [A.B. Bogues]
+              title: Black Heretics, Black Prophets: Radical Political Intellectuals
+              meta:  (New York: 2003)
+            book:
+              authors: H. Brotz
+              title: African-American Social and Political Thought 1850–1920
+              meta:  (New Brunswick: 1992)
+            book:
+              authors: [P.H. Coetzee, A.P.J. Roux]
+              title: The African Philosophy Reader. A Text with Readings
+              meta:  (New York: 1998)
+            book:
+              authors: [E. Etieyibo]
+              title:  Method, Substance and the Future of African Philosophy
+              meta:  (Cham: 2018)
+            book:
+              authors: [E.C. Eze]
+              title: Postcolonial African Philosophy: A Critical Reader
+              meta:  (Cambridge: 1997)
+            book:
+              authors: [E.C. Eze]
+              title: African Philosophy. An Anthology
+              meta:  (Oxford: 1998)
+            book:
+              authors: [J.L. Garfield, W. Edelglass]
+              title:  The Oxford Handbook of World Philosophy part VI
+              meta:  (New York: 2011)
+            book:
+              authors: [L.R. Gordon]
+              title: Existence in Black: An Anthology of Black Existential Philosophy
+              meta:  (New York: 1997)
+            book:
+              authors: [L.R. Gordon]
+              title: An Introduction to Africana Philosophy
+              meta:  (New York: 2008)
+            book:
+              authors: [B. Guy-Sheftall]
+              title: Words of Fire: An Anthology of African-American Feminist Thought
+              meta:  (New York: 1995)
+            book:
+              authors: [B. Hallen]
+              title: A Short History of African Philosophy
+              meta:  (Bloomington: 2002)
+            book:
+              authors: [L. Harris]
+              title: Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917
+              meta:  (Dubuque: 1983)
+            book:
+              authors: [P. Henry]
+              title: Caliban's Reason: Introducing Afro-Caribbean Philosophy
+              meta:  (New York: 2000)
+            book:
+              authors: [F.L. Hord (Mzee Lasana Okpara), J.S. Lee]
+              title:  I Am Because We Are: Readings in Africana Philosophy
+              meta:  (Amherst: 2016)
+            book:
+              authors: [S.O. Imbo]
+              title: An Introduction to African Philosophy
+              meta:  (Lanham: 1998)
+            book:
+              authors: [B.B. Janz]
+              title: Philosophy in an African Place
+              meta:  (Lanham: 2009)
+            book:
+              authors: [C. Jeffers]
+              title: Listening to Ourselves: A Multilingual Anthology of African Philosophy
+              meta:  (Albany: 2013)
+            book:
+              authors: [T.L. Lott]
+              title: African-American Philosophy: Selected Readings
+              meta:  (Upper Saddle River: 2002)
+            book:
+              authors: [T.L. Lott, J.P. Pittman]
+              title: A Companion to African-American Philosophy
+              meta:  (Malden: 2003)
+            book:
+              authors: [D.A. Masolo]
+              title: African Philosophy in Search of Identity
+              meta:  (Bloomington: 1994)
+            book:
+              authors: [J. McDade]
+              title: The Philosophical Forum: Special Issue: Philosophy and Black Experience 9
+              meta:  (Winter-Spring 1977-1978)
+            book:
+              authors: [C.W. Mills]
+              title: Blackness Visible: Essays on Philosophy and Race
+              meta:  (Ithaca: 1998)
+            book:
+              authors: [J.A. Montmarquet, W.H. Hardy]
+              title: Reflections: An Anthology of African American Philosophy
+              meta:  (Belmont: 2000)
+            book:
+              authors: [A. Mosley]
+              title: African Philosophy: Selected Readings
+              meta:  (Englewood Cliffs: 1995)
+            book:
+              authors: [L.T. Outlaw Jr.]
+              title: On Race and Philosophy
+              meta:  (New York: 1996)
+            book:
+              authors: [J.P. Pittman]
+              title: African-American Perspectives and Philosophical Traditions
+              meta:  (New York: 1996)
+            book:
+              authors: [T. Serequeberhan]
+              title: African Philosophy: The Essential Readings
+              meta:  (New York: 1991)
+            book:
+              authors: [T. Serequeberhan]
+              title: Our Heritage: The Past in the Present of African-American and African Existence
+              meta:  (Lanham: 2000)
+            book:
+              authors: [I.E. Ukpokolo, Themes]
+              title: Issues and Problems in African Philosophy
+              meta:  (Cham: 2017)
+            book:
+              authors: [K. Wiredu] 
+              title: A Companion to African Philosophy
+              meta: (Malden: 2004)
+            book:
+              authors: G. Yancy
+              title: African-American Philosophers: 17 Conversations
+              meta:  (New York: 1998)

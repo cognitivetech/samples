@@ -1,6 +1,7 @@
 title: Curriculum Configuration
 curator: Sunny Aggarwal
 source: https://www.example.com
+type: # item type (like paper, section, podcast, etc.) 
 
 description: >
     You got all the space
@@ -43,3 +44,11 @@ items:
       link: 
       description: >
           indented to r
+  - podcast:
+      title:
+      link:
+      items:
+        - episode:
+          title:
+          description:
+
